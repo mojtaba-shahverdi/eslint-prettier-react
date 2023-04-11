@@ -105,6 +105,8 @@ singleQuote: true
   },
   "plugins": ["react"],
   "rules": {
+    "react/no-unknown-property": 0,
+    "no-unused-vars": "off",
     "prettier/prettier": [
       "error",
       {
