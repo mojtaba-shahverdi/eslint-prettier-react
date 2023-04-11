@@ -13,11 +13,11 @@ eslint --init
 
 `? How would you like to use ESLint?`
 
-<ins><span style='color:#0aead4'>`> To check syntax, find problems, and enforce code style`</span></ins>
+<ins><span style='color:#0aead4'>> To check syntax, find problems, and enforce code style</span></ins>
 
 `? How would you like to define a style for your project?`
 
-<ins><span style='color:#0aead4'>`> Use a popular style guide`</span></ins>
+<ins><span style='color:#0aead4'>> Use a popular style guide</span></ins>
 
 `? Which style guide do you want to follow?`
 
