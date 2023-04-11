@@ -13,19 +13,19 @@ eslint --init
 
 `? How would you like to use ESLint?`
 
-<span style='color:#0aead4'>> To check syntax, find problems, and enforce code style</span>
+<ins><span style='color:#0aead4'>`> To check syntax, find problems, and enforce code style`</span></ins>
 
 `? How would you like to define a style for your project?`
 
-<span style='color:#0aead4'>> Use a popular style guide</span>
+<ins><span style='color:#0aead4'>`> Use a popular style guide`</span></ins>
 
 `? Which style guide do you want to follow?`
 
-<span style='color:#0aead4'>Standard: https://github.com/standard/standard</span>
+<ins><span style='color:#0aead4'>> Standard: https://github.com/standard/standard</span></ins>
 
 `? What format do you want your config file to be in?`
 
-<span style='color:#0aead4'>> JSON</span>
+<ins><span style='color:#0aead4'>> JSON</span></ins>
 
 ### Select your package management to proceed with the installation of the required packages.
 
