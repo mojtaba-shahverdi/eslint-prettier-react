@@ -1,6 +1,6 @@
 # Best React.JS || Next.JS Linter Setup
 
-<div style="display: flex">
+<div style="display: flex; margin-bottom: 20px; margin: auto;">
 <img src='./assets/ESLint.webp' width='60px' alt='ESLint'>
 <img src='./assets/plus.webp' width='60px' alt='Plus'>
 <img src='./assets/prettier.webp' width='60px' alt='prettier'>
