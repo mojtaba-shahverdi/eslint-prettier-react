@@ -1,5 +1,15 @@
 # Best React.JS || Next.JS Linter Setup
 
+<img src='./assets/ESLint.webp' width='60px' alt='ESLint'>
+<img src='./assets/plus.webp' width='60px' alt='Plus'>
+<img src='./assets/prettier.webp' width='60px' alt='prettier'>
+<img src='./assets/plus.webp' width='60px' alt='eslint'>
+<img src='./assets/editorconfig.webp' width='60px' alt='editorconfig'>
+<img src='./assets/equal.webp' width='60px' alt='editorconfig'>
+<img src='./assets/Next.js.webp' width='60px' alt='Next.js'>
+<img src='./assets/slash.webp' width='27px' alt='next js'>
+<img src='./assets/React.webp' width='60px' alt='React'>
+
 The instructions presented here are highly recommended as they provide the most effective configuration for using eslint, prettier and editorconfig together in react.js || next.js.
 
 ## Please follow the instructions provided:
