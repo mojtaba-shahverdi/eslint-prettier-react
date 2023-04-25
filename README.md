@@ -1,6 +1,13 @@
 # Best React.JS || Next.JS Linter Setup
 
-<div style="display: flex; justify-content:center">
+<style>
+.container {
+    display:flex;
+    justify-content: center;
+    width: 100%;
+}
+</style>
+<div class="container">
 <img src='./assets/ESLint.webp' width='60px' alt='ESLint'>
 <img src='./assets/plus.webp' width='60px' alt='Plus'>
 <img src='./assets/prettier.webp' width='60px' alt='prettier'>
