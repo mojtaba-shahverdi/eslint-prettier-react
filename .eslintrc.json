@@ -2,7 +2,6 @@
   "settings": {
     "react": {
       "version": "detect"
-      ////
     }
   },
   "env": {
