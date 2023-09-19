@@ -100,6 +100,11 @@ singleQuote: true
 
 ```json
 {
+  "settings": {
+    "react": {
+      "version": "detect"
+    }
+  },
   "env": {
     "browser": true,
     "es2021": true
